@@ -1,18 +1,33 @@
 Copyright (c) 2026 SertAy. All Rights Reserved.
 
-This software and associated documentation files (the "Software") are the 
-proprietary property of the author.
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to use,
+run, study, modify, and redistribute the Software, subject to the following
+STRICT conditions:
 
-You may NOT:
-- Copy, modify, or distribute this Software or any part of it.
-- Use this Software for commercial purposes.
-- Reverse engineer, decompile, or extract source code from the binaries.
-- Create derivative works based on this Software.
+1. ATTRIBUTION AND NON-PLAGIARISM (MANDATORY):
+   - You may NOT claim authorship, ownership, or original creation of this
+     Software, in whole or in part, under any circumstances.
+   - You may NOT redistribute, re-upload, host, or showcase this Software (or
+     any derivative works based upon it) as your own creation.
+   - The original copyright notice, author credits ("SertAy"), and this
+     permission notice MUST be preserved and visibly displayed in all copies,
+     distributions, and substantial portions of the Software.
 
-This Software is provided "as is", without warranty of any kind, express or
-implied, including but not limited to the warranties of merchantability,
-fitness for a particular purpose and noninfringement. In no event shall the
-authors or copyright holders be liable for any claim, damages or other
-liability, whether in an action of contract, tort or otherwise, arising from,
-out of or in connection with the Software or the use or other dealings in the
-Software.
+2. DERIVATIVE WORKS AND MODIFICATIONS:
+   - If you modify this Software or build upon it, you MUST clearly document
+     that modifications were made and visibly credit "SertAy" as the original
+     creator with a link to the original project.
+
+3. NON-COMMERCIAL USE:
+   - This Software and its source code may NOT be sold, commercialized,
+     monetized behind paywalls, or distributed for profit without prior
+     explicit written consent from the author.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
