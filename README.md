@@ -236,7 +236,8 @@ Aldığınız API anahtarlarını uygulamaya tanıtmak için aşağıdaki iki y�
 
 ## 📄 License / Lisans
 
-Tüm hakları saklıdır (All Rights Reserved) — © 2026 SertAy.  
-Bu projenin kodlarının kopyalanması, üzerinde değişiklik yapılması veya izinsiz dağıtılması yasaktır. Lütfen LICENSE dosyasını inceleyiniz.
+Telif Hakkı — © 2026 **SertAy**.  
+Bu proje kişisel ve ticari olmayan kullanım için açıktır. Projenin kaynak belirtilmeksizin paylaşılması, sahiplenilmesi veya satılması kesinlikle yasaktır. Detaylar için lütfen [LICENSE](LICENSE) dosyasını inceleyiniz.
 
-Copying, modifying, or unauthorized distribution of the code is strictly prohibited. Please see the LICENSE file for details.
+Copyright (c) 2026 **SertAy**.  
+This project is available for personal and non-commercial use with mandatory author attribution. Claiming authorship, unauthorized redistribution, or selling this software is strictly prohibited. Please see the [LICENSE](LICENSE) file for details.
