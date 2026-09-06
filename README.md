@@ -39,6 +39,8 @@ To prevent your console from crashing, you must increase the **UltraHand memory 
 2. Press `+` to open settings, then go to **System**.
 3. Change **Overlay Memory** from **4MB to 8MB**.
 
+**IMPORTANT: If you continue to experience crashes, please turn off the enabled modules in Sysmodules.**
+
 ### 💾 Step 2: Installation
 **Requirements:** You MUST have [nx-ovlloader](https://github.com/ppkantorski/nx-ovlloader) and [Ultrahand-Overlay](https://github.com/ppkantorski/Ultrahand-Overlay) installed for this app to work!
 
@@ -145,6 +147,8 @@ Cihazın çökmesini (crash) önlemek için **UltraHand bellek ayarını** deği
 1. UltraHand menüsünü açın.
 2. `+` tuşuna basarak ayarlara, ardından **System** bölümüne girin.
 3. **Overlay Memory** değerini **4MB'den 8MB'a** yükseltin.
+
+**ÖNEMLİ: Eğer crash hatası almaya devam ederseniz. Sysmodules'te açık olan modülleri kapatınız.**
 
 ### 💾 2. Aşama: Kurulum
 **Zorunlu Gereksinimler:** Uygulamanın çalışması için cihazınızda [nx-ovlloader](https://github.com/ppkantorski/nx-ovlloader) ve [Ultrahand-Overlay](https://github.com/ppkantorski/Ultrahand-Overlay) yüklü olmak ZORUNDADIR!
