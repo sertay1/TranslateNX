@@ -92,7 +92,7 @@ TranslateNX needs services to read (OCR) and translate text. For the best perfor
 This is built-in. No API key is required. Simply select it from the app settings if you need a quick fallback.
 
 #### 🤖 AI API Options
-**1. Puter AI — ⭐ RECOMMENDED**
+**1. Puter AI — 
 * Go to [Puter.com](https://puter.com) and create a free account.
 * Once logged in, open the developer dashboard to generate your API key.
 * Puter AI offers generous limits for executing AI-based translations, providing context-aware and natural-sounding results.
@@ -201,7 +201,7 @@ TranslateNX'in en iyi performansla çalışması için iki farklı sisteme ihtiy
 Bu sistem TranslateNX içinde hazır kurulu gelir. API anahtarı almanıza gerek yoktur. Ayarlardan direkt seçerek zor anlarda pratik bir şekilde kullanabilirsiniz.
 
 #### 🤖 Yapay Zeka (AI) API Seçenekleri
-**1. Puter AI — ⭐ ÖNERİLEN**
+**1. Puter AI — 
 * [Puter.com](https://puter.com) adresine gidin ve ücretsiz bir hesap oluşturun.
 * Hesabınıza giriş yaptıktan sonra geliştirici paneli üzerinden API anahtarınızı (API key) oluşturun.
 * Puter AI, oyun diyaloglarının bağlamını çok iyi anlayan ve oldukça doğal hissettiren çeviriler sunan cömert limitlere sahip bir yapay zekadır.
