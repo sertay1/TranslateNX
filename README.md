@@ -91,17 +91,6 @@ TranslateNX needs services to read (OCR) and translate text. For the best perfor
 **3. MyMemory (5,000 Characters/Day) — Fallback**
 This is built-in. No API key is required. Simply select it from the app settings if you need a quick fallback.
 
-#### 🤖 AI API Options
-**1. Puter AI — 
-* Go to [Puter.com](https://puter.com) and create a free account.
-* Once logged in, open the developer dashboard to generate your API key.
-* Puter AI offers generous limits for executing AI-based translations, providing context-aware and natural-sounding results.
-
-**2. Google Gemini AI — Alternative**
-* Go to [Google AI Studio](https://aistudio.google.com) and sign in with your Google account.
-* Click on **"Get API key"** from the left menu and create a new key.
-* Gemini provides extremely fast and smart context-based translations for complex game scenarios.
-
 ### 📝 Step 4: Entering API Keys
 You can enter your API keys into the app using one of two methods:
 * **Method 1 (Via Switch):** Open the TranslateNX app from the Hbmenu and type your API keys directly into the app interface.
